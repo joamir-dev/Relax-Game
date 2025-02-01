@@ -1,4 +1,4 @@
-<h1>GameBox - Simple Web Development Projects for Beginners</h1>
+<h1>Relax Game - Simple Web Development Projects for Beginners</h1>
 
 <p><em>Welcome to GameBox</em></p>
 <p>A collection of simple and engaging development projects designed for beginners. Explore and enhance your skills with fun
@@ -30,22 +30,4 @@
     help us grow.</p>
 
 <div>
-<h2>Our Contributors </h2>
-<table>
-<tr>
-    <td align="center">
-        <a href="https://github.com/Sai-Uttej-R">
-            <img src="https://avatars.githubusercontent.com/u/95533451?v=4" width="100;" alt="Sai Uttej R"/>
-            <br />
-            <sub><b>Sai Uttej R</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/sakethvalakatla">
-            <img src="https://avatars.githubusercontent.com/u/144155780?v=4" width="100;" alt="Saketh V"/>
-            <br />
-            <sub><b>Saketh Valakatla</b></sub>
-        </a>
-    </td>
-</tr>
 </div>
